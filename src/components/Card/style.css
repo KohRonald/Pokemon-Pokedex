@@ -1,0 +1,47 @@
+p {
+    margin: 0px;
+}
+
+.Card {
+    background: #fff;
+    border-radius: 15px;
+    padding-bottom: 10px;
+}
+
+.Card__img {
+    text-align: center;
+    padding: 10px;
+    zoom: 1.1;
+}
+
+.Card__name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+.Card__types {
+    display: flex;
+    justify-content: center;
+}
+
+.Card__type {
+    padding: 5px 10px;
+    margin: 10px 10px 10px 0px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.Card__info {
+    margin: 0px 10px;
+    background-color: #ededeb;
+    border-radius: 5px;
+}
+
+.Card__data {
+    padding: 8px 10px;
+}
+
+.Card__data .title {
+    font-weight: 700;
+}
